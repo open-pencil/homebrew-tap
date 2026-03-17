@@ -1,13 +1,13 @@
 cask "open-pencil" do
-  version "0.9.0"
+  version "0.10.0"
 
   on_arm do
-    sha256 "089d4af0061ddf534c5580ec39adbf1ea41fce4b1d1150a7843edabae6eb0342"
+    sha256 "7795e854d9b6c9cabce4e1d79ba6b953b57616bdc4e0d9b1474e5c3b512494b6"
     url "https://github.com/open-pencil/open-pencil/releases/download/v#{version}/OpenPencil_aarch64.app.tar.gz"
   end
 
   on_intel do
-    sha256 "276c2cbb8debb5eff29bad131f6b316b78f65aa5151f3df6ba78890431b6d1dd"
+    sha256 "fbde22a4e1ccb8edf35b70f1bede75f16444323df00ec20511675c3e1ca7527d"
     url "https://github.com/open-pencil/open-pencil/releases/download/v#{version}/OpenPencil_x64.app.tar.gz"
   end
 
