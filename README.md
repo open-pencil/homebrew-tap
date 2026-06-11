@@ -17,3 +17,7 @@ brew upgrade open-pencil
 ```sh
 brew uninstall open-pencil
 ```
+
+---
+
+Maintained as part of [OpenPencil](https://github.com/open-pencil) for the [OpenPencil editor](https://github.com/open-pencil/open-pencil).
